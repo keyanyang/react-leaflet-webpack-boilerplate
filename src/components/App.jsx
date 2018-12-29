@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 
-import Leaflet from './LeafletMap'
+import Leaflet from './LeafletMap';
 
 class App extends Component {
     render() { 
