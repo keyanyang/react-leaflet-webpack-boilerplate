@@ -11,7 +11,6 @@ module.exports = {
     },
     devtool: 'none',
     devServer: {
-        open: true,
         port: 8080
     },
     resolve: {
